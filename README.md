@@ -1,6 +1,7 @@
 # todo_task
 
-A new Flutter project.
+Todo Tasks in Online and Offline Mode 
+
 
 ## Getting Started
 
