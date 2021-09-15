@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140683858402",
+    "project_id": "konsolto-task",
+    "storage_bucket": "konsolto-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140683858402:android:67aab351c816c2e56169bb",
+        "android_client_info": {
+          "package_name": "com.example.todo_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140683858402-8sinss4bk9sr77g50g5qpmb538343u54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoTFU6RoItoSx6tsfYVngVWIEj3NondE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140683858402-8sinss4bk9sr77g50g5qpmb538343u54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
