@@ -50,24 +50,6 @@ class UserTasks extends ChangeNotifier
     offlineTasks=[];
     notifyListeners();
   }
- /* Future<List<Task>> getAllTasksFromFirebase() async
-  {
-    userService.getAllTasks().then((value) {
-      myTasks=value;
-    });
-    return myTasks;
-  }
-
-  */
- /* Future<List<Task>> getAllDoneTasksFromFirebase() async
-  {
-    userService.getAllDoneTasks().then((value) {
-      doneTasks=value;
-    });
-    return doneTasks;
-  }
-
-  */
   addTaskToBackend({required Task task})
   {
     userService.addNewTask(task: task);
